@@ -1,1 +1,1 @@
-"# PharmacyFrontendPrev" 
+"# Pharmacy Management System Frontend" 
